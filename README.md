@@ -16,7 +16,7 @@ Python program that generates random text resembling a given source file using a
     Open a terminal or command prompt.
 
 ### Run the script by typing:
-    python writer_bot_ht.py
+    python HashMarkovGenerator.py
 
 ### When prompted, enter the following inputs one by one:
     The filename of the source text file (e.g., source.txt)
